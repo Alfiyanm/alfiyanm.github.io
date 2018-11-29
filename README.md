@@ -3,6 +3,7 @@
 How to add Post 
 1. enter to '_posts' directory
 2. make file with markdown exstension. example : mystory.md
+
 <img src="https://github.com/Alfiyanm/alfiyanm.github.io/img/Screenshot1.png" 
      alt="Muslim App UI">
 
