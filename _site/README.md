@@ -15,5 +15,4 @@ How to edit Page
 How to run this page online 
 1. open '_config.yml' file
 2. change to your repository name 
-
 this page was forked from [**here**](https://github.com/willianjusten/minimal-blog)
