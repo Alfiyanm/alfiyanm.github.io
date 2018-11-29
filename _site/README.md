@@ -4,12 +4,15 @@ How to add Post
 1. enter to '_posts' directory
 2. make file with markdown exstension. example : mystory.md
 
+you can see image bellow
+
 <img src="https://raw.githubusercontent.com/Alfiyanm/alfiyanm.github.io/master/img/Screenshot1.png" 
      alt="Muslim App UI">
 
 How to add Page
 1. enter to this repo/folder (make sure you are in root directory)
 2. add file with markdown exstension. example : test.md
+3. just like step above
 
 How to edit Page
 1. enter to this repo/folder (make sure you are in root directory)
