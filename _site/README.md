@@ -7,7 +7,7 @@ How to add Post
 you can see image bellow
 
 <img src="https://raw.githubusercontent.com/Alfiyanm/alfiyanm.github.io/master/img/Screenshot1.png" 
-     alt="Muslim App UI">
+     alt="Screenshot1.png">
 
 How to add Page
 1. enter to this repo/folder (make sure you are in root directory)
