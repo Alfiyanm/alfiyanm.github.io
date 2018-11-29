@@ -255,7 +255,7 @@ tbody tr:nth-child(odd) th {
 .list-post-title {
   margin: 1rem 0 .25rem; }
   .list-post-title a {
-    color: #333; }
+    color: #159957; }
     .list-post-title a:hover, .list-post-title a:focus {
       text-decoration: none; }
 .list-post-date {
