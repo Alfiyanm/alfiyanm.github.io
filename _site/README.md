@@ -14,7 +14,7 @@ the format post like shown bellow
 ## How to add Page
 1. enter to this repo/folder (make sure you are in root directory)
 2. add file with markdown exstension. example : test.md
-3. just like step [Above](#How to add some Post)
+3. just like step [**Above**](https://github.com/Alfiyanm/alfiyanm.github.io#how-to-add-some-post)
 
 ## How to edit Page
 1. enter to this repo/folder (make sure you are in root directory)
