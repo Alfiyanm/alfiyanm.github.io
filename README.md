@@ -1,3 +1,5 @@
+<img src="mappicon.png" align="right" height="100" width="100">
+
 # MA-PP
 
 How to add Post 
@@ -6,8 +8,7 @@ How to add Post
 
 you can see image bellow
 
-<img src="https://raw.githubusercontent.com/Alfiyanm/alfiyanm.github.io/master/img/Screenshot1.png" 
-     alt="Screenshot1.png">
+<img src="Screenshot1.png" alt="Screenshot1.png">
 
 How to add Page
 1. enter to this repo/folder (make sure you are in root directory)
