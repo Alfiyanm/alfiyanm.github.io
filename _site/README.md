@@ -15,7 +15,7 @@
 2. add file with markdown exstension. example : test.md
 3. the format page just like image bellow
 
-> <img src="Screenshot1.png" alt="Screenshot2.png">
+> <img src="Screenshot2.png" alt="Screenshot2.png">
 
 ## How to edit Some Page
 1. enter to this repo/folder (make sure you are in root directory)
