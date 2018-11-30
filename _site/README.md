@@ -15,11 +15,16 @@
 2. add file with markdown exstension. example : test.md
 3. the format page just like image bellow
 
-> <img src="Screenshot1.png" alt="Screenshot1.png">
+> <img src="Screenshot1.png" alt="Screenshot2.png">
 
 ## How to edit Page
 1. enter to this repo/folder (make sure you are in root directory)
 2. just edit which the page file you wanna edit in markdown format
+
+
+## Credits
+
+this documentation will improve next as soon
 
 many thanks for developers who colaborate this awesome project
 
